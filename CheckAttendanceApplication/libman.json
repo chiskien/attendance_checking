@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "mdb-ui-kit@6.0.1",
+      "destination": "wwwroot/lib/mdb-ui-kit/",
+      "files": [
+        "mdb.min.js",
+        "mdb.min.css"
+      ]
+    }
+  ]
+}

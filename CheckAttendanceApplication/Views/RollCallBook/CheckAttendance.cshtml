@@ -1,0 +1,75 @@
+﻿@model List<RollCallBook>
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="container-fluid">
+    <h2 class="text-center m-3"> </h2>
+    <a href="~/CourseSchedule/GetCourseScheduleOfInstructor/@ViewBag.Course.CourseId" class="btn btn-info">Back</a>
+    @using (Html.BeginForm("SaveRollCallBook", "RollCallBook", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <table class="table-hover table ">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Roll</th>
+                <th scope="col">Attendance</th>
+                <th scope="col">Comment</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            @{
+                int i = 0;
+                @foreach (Student student in ViewBag.Students)
+                {
+                    <tr>
+                        <th scope="row">@student.StudentId</th>
+                        @Html.TextBoxFor(x => Model[i].StudentId, new { @id = "student_" + i, hidden = true })
+                        @Html.TextBoxFor(x => Model[i].RollCallBookId, new { @id = "rollCallBook_" + i, hidden = true })
+                        @Html.TextBoxFor(x => Model[i].TeachingScheduleId, new { @id = "schedule_" + i, hidden = true })
+                        @* <input type="text"  name="StudentId" value="@student.StudentId" id="studentId_@i"> *@
+                        @* <input type="text"  name="TeachingScheduleId" value="@ViewBag.CourseSchedule.TeachingScheduleId" id="teachingScheduleId_@i"> *@
+                        <td>
+                            <img height="150px" src="~/img/@student.Image" alt="@student.FullName">
+                        </td>
+                        <td>
+                            <b>@student.FullName</b>
+                        </td>
+                        <td>@student.Roll</td>
+                        <td>
+                            <div class="form-check-inline">
+
+                                @Html.CheckBoxFor(s => Model[i].IsAbsent, new { id = "isAbsent_" + i, @class = "form-check-input" })
+                                @Html.Label("IsAbsent","Absent", new { @class = "form-check-label" })
+
+                            </div>
+
+                        </td>
+                        <td>
+                            @Html.EditorFor(s => Model[i].Comment, new { @id = "comment_" + i, @class = "form-check-input" })
+                        </td>
+
+                    </tr>
+                    i++;
+                }
+            }
+
+            </tbody>
+
+        </table>
+        <input type="hidden" name="cid" value="@ViewBag.Course.CourseId">
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10 text-center">
+                <button class="btn btn-dark">Save</button>
+            </div>
+        </div>
+    }
+</div>
+<!-- Modal -->
+<script type="text/javascript">
+</script>

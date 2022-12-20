@@ -1,0 +1,36 @@
+﻿@model List<Course>
+@{
+    ViewBag.Title = "Title";
+}
+<div class="container-fluid">
+    @* <h1 class="m-5 text-center">Teaching Schedule of @ViewBag.Instructor.InstructorFullName</h1> *@
+    <h1 class="m-5 text-center">All Courses of @ViewBag.Instructor.InstructorFullName</h1>
+    <table class="table table-hover shadow-1-strong">
+        <thead>
+        <tr class="row-header-color-primary bg-secondary">
+            <th>Course</th>
+            <th>Course Description</th>
+            <th>Subject Code</th>
+            <th>Subjec tName</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var course in @Model)
+        {
+            <tr>
+                <td>@course.CourseCode</td>
+                <td>@course.CourseDescription</td>
+                <td>@course.Subject.SubjectCode</td>
+                <td>@course.Subject.SubjectName</td>
+                <td>
+                    <a href="~/CourseSchedule/GetCourseScheduleOfInstructor/@course.CourseId"
+                       class="btn btn-dark">
+                        View Schedules
+                    </a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,15 @@
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

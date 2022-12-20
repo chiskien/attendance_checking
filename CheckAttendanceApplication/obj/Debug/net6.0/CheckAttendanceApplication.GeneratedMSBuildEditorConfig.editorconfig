@@ -1,0 +1,48 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CheckAttendanceApplication
+build_property.RootNamespace = CheckAttendanceApplication
+build_property.ProjectDir = D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\CheckAttendanceApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\CheckAttendanceApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/CourseSchedule/GetCourseScheduleOfInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlU2NoZWR1bGVcR2V0Q291cnNlU2NoZWR1bGVPZkluc3RydWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/Course/GetAllCoursesOfInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEdldEFsbENvdXJzZXNPZkluc3RydWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/RollCallBook/CheckAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sbENhbGxCb29rXENoZWNrQXR0ZW5kYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/Programming/.Net/PRN211_Block5/Projects/UniversitySolution/CheckAttendanceApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

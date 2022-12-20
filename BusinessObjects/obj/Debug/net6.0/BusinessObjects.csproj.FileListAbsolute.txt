@@ -1,0 +1,14 @@
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\Study\Programming\.Net\PRN211_Block5\Projects\UniversitySolution\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
